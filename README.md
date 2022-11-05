@@ -1,36 +1,47 @@
-<h2>Software Developer | Full-Stak 💻 </h2>
+<h2> Desenvolvedora de Software | Full-Stak 💻 </h2>
 
-<p>Olá, eu me chamo Larissa Lavínia e sou uma Desenvolvedora Front-End Jr. 
+<h2>Meus estudos no momento:</h2>
+<ul>
+  <li>Tecnologias <b>Front-end</b></li>
+  <ol type="1">
+    <li>✅ HTML and CSS</li>
+    <li>✅ JavaScript</li>
+    <li>✅ Bootstrapt</li>
+    <li>🟨 React</li>
+  </ol>
+  <li>Tecnologias <b>Back-end</b></li>
+  <ol type="1">
+    <li>✅ MySQL</li>
+    <li>🟨 Java</li>
+    
+  </ol>
+</ul>
 
-Conheci a área de tecnologia e fiquei completamente fascinada quando me dei conta do quanto ela me rodeia no dia a dia, do impacto que ela causa no mundo como um todo e da sensação que ela desperta em mim, fazendo eu me sentir parte de algo maior. 
-
-Então, motivada pela paixão, pelo sonho de fazer parte da construção de algo novo e pelo mercado em expansão decidi de forma convicta seguir carreira.
-
-Meu objetivo no momento é entrar para o mercado de trabalho e ter a chance de me desenvolver como profissional. Sou dedicada ao que me proponho, tenho facilidade para trabalhar em equipe e muita disposição para novos desafios.</p>
-
+<h2>Principais Tecnologias</h2>
 <div>
-  <a href="https://github.com/larissalaviniaba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissalaviniaba&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissalaviniaba&layout=compact&langs_count=6&theme=react"/>
+  <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img title="React" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="35"
-src="https://user-images.githubusercontent.com/100887684/168122525-5730c1b3-09dc-46b6-85c8-73a26a1393d6.PNG">
-  <img align="center" alt="Ts" height="30" width="30"
-src="https://user-images.githubusercontent.com/100887684/167867377-2a971250-af79-4d7d-b35f-cca577db3d32.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="29" src="https://user-images.githubusercontent.com/100887684/168123809-f612a11e-b82f-4944-a915-26f5b2b81b8e.PNG">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+<h2>Outras Tecnologias</h2>
+<div>
+  <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img title="Java" alt="Java" src="https://img.shields.io/badge/Java-da851b?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
  <br>
 
 <div> 
-  
-  <a href="https://instagram.com/larissalaviniaba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
-   <a href="https://www.linkedin.com/in/larissalaviniaba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+<h2>Contact</h2>
+<p><b>E-mail: </b><a href="mailto:larissa11.cedaspy@gmail.com">larissa11.cedaspy@gmail.com</a></p>
+<a href="https://www.linkedin.com/in/larissalaviniaba" alt="linkedin">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/larissalaviniaba" alt="instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ##### Profile visits
 <p align="center"> 
