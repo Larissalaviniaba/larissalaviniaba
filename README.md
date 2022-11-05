@@ -1,5 +1,13 @@
 <h2>Software Developer | Full-Stak 💻 </h2>
 
+<p>Olá, eu me chamo Larissa Lavínia e sou uma Desenvolvedora Front-End Jr. 
+
+Conheci a área de tecnologia e fiquei completamente fascinada quando me dei conta do quanto ela me rodeia no dia a dia, do impacto que ela causa no mundo como um todo e da sensação que ela desperta em mim, fazendo eu me sentir parte de algo maior. 
+
+Então, motivada pela paixão, pelo sonho de fazer parte da construção de algo novo e pelo mercado em expansão decidi de forma convicta seguir carreira.
+
+Meu objetivo no momento é entrar para o mercado de trabalho e ter a chance de me desenvolver como profissional. Sou dedicada ao que me proponho, tenho facilidade para trabalhar em equipe e muita disposição para novos desafios.</p>
+
 <div>
   <a href="https://github.com/larissalaviniaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissalaviniaba&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
