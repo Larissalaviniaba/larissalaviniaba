@@ -8,11 +8,10 @@
 
 <p>Gosto ser desafiada, pois os desafios impulsionam meu crescimento profissional. Autonomia e disciplina foram habilidades que desenvolvi estudando remotamente, tenho facilidade para trabalhar em equipe e comprometimento com os meus objetivos.</p>
 
-
 <div align="center">
   <a href="https://github.com/larissalaviniaba">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissalaviniaba&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larissalaviniaba&show_icons=true&theme=dracula&include_all_comsits=true&count_private=true"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissalaviniaba&layout=compact&theme=vision-friendly-dark" alt="larissa's most languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larissalaviniaba&show_icons=true&theme=vision-friendly-dark" alt="larissa's stats"/>    
 </div>
 
     
