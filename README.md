@@ -4,7 +4,7 @@
 
 <p>Soteropolitana, aficionada por quebra-cabeças e The Big Bang Theory. Sou apaixonada por tecnologia e acredito fielmente no seu potencial transformador. </p> 
 
-<p>Como Desenvolvedora de Software full-stack já acumulo algumas experiencias em front-end (Vue.js e React) e em back-end (Node.js e PHP), e estou constantemente buscando formas de aprimorar os meus conhecimentos. Tenho como objetivo profissional elevar o nível do meu conhecimento e continuar atuando como Desenvolvedora de Software Back-end e/ou Front-end.</p>
+<p>Como Desenvolvedora de Software full-stack já acumulo algumas experiências em front-end (Vue.js e React) e em back-end (Node.js e PHP), e estou constantemente buscando formas de aprimorar os meus conhecimentos. Tenho como objetivo profissional elevar o nível do meu conhecimento e continuar atuando como Desenvolvedora de Software Back-end e/ou Front-end.</p>
 
 <p>Gosto ser desafiada, pois os desafios impulsionam meu crescimento profissional. Autonomia e disciplina foram habilidades que desenvolvi estudando remotamente, tenho facilidade para trabalhar em equipe e comprometimento com os meus objetivos.</p>
 
